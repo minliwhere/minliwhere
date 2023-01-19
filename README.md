@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+git add .
+git commit -m "message"
+git push
+
+git log
+- q
+git status
+
